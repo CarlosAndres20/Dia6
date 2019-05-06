@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\bin\Debug\netcoreapp2.1\Dia6Enumeraciones.deps.json
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\bin\Debug\netcoreapp2.1\Dia6Enumeraciones.runtimeconfig.json
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\bin\Debug\netcoreapp2.1\Dia6Enumeraciones.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\bin\Debug\netcoreapp2.1\Dia6Enumeraciones.dll
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\bin\Debug\netcoreapp2.1\Dia6Enumeraciones.pdb
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\obj\Debug\netcoreapp2.1\Dia6Enumeraciones.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\obj\Debug\netcoreapp2.1\Dia6Enumeraciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\obj\Debug\netcoreapp2.1\Dia6Enumeraciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\obj\Debug\netcoreapp2.1\Dia6Enumeraciones.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\obj\Debug\netcoreapp2.1\Dia6Enumeraciones.dll
+C:\Users\Usuario\source\repos\Dia6Enumeraciones\obj\Debug\netcoreapp2.1\Dia6Enumeraciones.pdb
